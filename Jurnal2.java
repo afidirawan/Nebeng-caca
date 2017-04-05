@@ -29,3 +29,5 @@ public class Jurnal2 {
     }
     
 }
+
+ini udah kerubah
